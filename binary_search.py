@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 def binary_search(sorted_coll, value):
     min = 0
